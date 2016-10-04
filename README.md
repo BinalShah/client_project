@@ -1,4 +1,4 @@
-# client_project
+# Client Project
 Retrieve a client information with CURD functions
 
 Project is in Asp.Net C# using visual studio 2013.
